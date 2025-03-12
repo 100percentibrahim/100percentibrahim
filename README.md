@@ -1,4 +1,13 @@
-<h1 align="center">hello there 👋</h1>
+```
+   /$$$$$$ /$$$$$$$  /$$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$ /$$      /$$ /$$$$$$  /$$$$$$  /$$      /$$
+  |_  $$_/| $$__  $$| $$__  $$ /$$__  $$| $$  | $$|_  $$_/| $$$    /$$$|_  $$_/ /$$__  $$| $$$    /$$$
+    | $$  | $$  \ $$| $$  \ $$| $$  \ $$| $$  | $$  | $$  | $$$$  /$$$$  | $$  | $$  \__/| $$$$  /$$$$
+    | $$  | $$$$$$$ | $$$$$$$/| $$$$$$$$| $$$$$$$$  | $$  | $$ $$/$$ $$  | $$  |  $$$$$$ | $$ $$/$$ $$
+    | $$  | $$__  $$| $$__  $$| $$__  $$| $$__  $$  | $$  | $$  $$$| $$  | $$   \____  $$| $$  $$$| $$
+    | $$  | $$  \ $$| $$  \ $$| $$  | $$| $$  | $$  | $$  | $$\  $ | $$  | $$   /$$  \ $$| $$\  $ | $$
+   /$$$$$$| $$$$$$$/| $$  | $$| $$  | $$| $$  | $$ /$$$$$$| $$ \/  | $$ /$$$$$$|  $$$$$$/| $$ \/  | $$
+  |______/|_______/ |__/  |__/|__/  |__/|__/  |__/|______/|__/     |__/|______/ \______/ |__/     |__/
+```
 
 ###
 
@@ -12,13 +21,23 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/100percentibrahim/100percentibrahim/output/snake.svg" alt="Snake animation" />
+<h1 align="center">hello there 👋</h1>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=100percentibrahim&theme=github-dark-blue&hide_border=true" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/100percentibrahim/100percentibrahim/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
 
 ---
 
-<h3 align="left">Language</h3>
-
-###
+### Language:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
@@ -56,11 +75,11 @@
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
 </div>
 
+###
+
 ---
 
-<h3 align="left">Dev. Tools</h3>
-
-###
+### Develoment Tools:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
@@ -120,11 +139,11 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
+###
+
 ---
 
-<h3 align="left">Setup</h3>
-
-###
+### Setup:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
@@ -137,11 +156,3 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=100percentibrahim&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
