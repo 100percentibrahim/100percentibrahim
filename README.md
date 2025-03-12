@@ -21,8 +21,6 @@
 
 ###
 
-<h1 align="center">hello there 👋</h1>
-
 ###
 
 <div align="center">
@@ -34,8 +32,6 @@
 </div>
 
 ###
-
----
 
 ### Language:
 
@@ -76,8 +72,6 @@
 </div>
 
 ###
-
----
 
 ### Develoment Tools:
 
@@ -140,8 +134,6 @@
 </div>
 
 ###
-
----
 
 ### Setup:
 
