@@ -26,9 +26,7 @@
   </a>
 </div>
 
-<div align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4635707" style='border:none;'></iframe>
-</div>
+###
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=p35c2nsfa226cmcc4ttqg05wc&width=500&count=1" alt="spotify recently played"  />
