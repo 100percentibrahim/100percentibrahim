@@ -11,41 +11,6 @@
 
 ###
 
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=p35c2nsfa226cmcc4ttqg05wc&width=500&count=1" alt="spotify recently played"  />
-</div>
-
-###
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=100percentibrahim&theme=github-dark-blue&hide_border=true" height="220" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/100percentibrahim/100percentibrahim/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
 ### Language:
 
 <div align="left">
