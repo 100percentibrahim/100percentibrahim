@@ -8,24 +8,6 @@
 <br>
 
 <div align="center">
-  <img src="./assets/lfd123-open-source-rt-thread-rtos-on-risc-v.png" height="50" hspace="3" />
-  <img src="./assets/lfel1001-understanding-the-eu-cyber-resilience-act-.png" height="50" hspace="3" />
-  <img src="./assets/lfel1010-xss-exploits-and-defenses.png" height="50" hspace="3" />
-  <img src="./assets/lfs111-open-source-and-the-5g-transition.png" height="50" hspace="3" />
-  <img src="./assets/lfs112-ethics-in-ai-and-data-science.png" height="50" hspace="3" />
-  <img src="./assets/lfs120-conversational-ai-ensuring-compliance-and-mi.png" height="50" hspace="3" />
-  <img src="./assets/lfs170-blockchain-understanding-its-uses-and-implic.png" height="50" hspace="3" />
-  <img src="./assets/17398951176963021610006048350100.png" height="50" hspace="3" />
-  <img src="./assets/4d48be22-cdd1-4c68-b199-43fc9c26ba4c.png" height="50" hspace="3" />
-  <img src="./assets/6582aea0-9485-4c49-a88f-6a838b5322cb.png" height="50" hspace="3" />
-  <img src="./assets/ccc4ccaa-8195-4f9c-8a21-e15db86485f2.png" height="50" hspace="3" />
-  <img src="./assets/badge_sfsiin.svg" height="50" />
-  <img src="./assets/multicloud-network-associate.png" height="50" />
-</div>
-
-<br>
-
-<div align="center">
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white">
   <img alt="AssemblyScript" src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white">
@@ -54,4 +36,22 @@
   <img alt="Apache Groovy" src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat-square&logo=Apache+Groovy&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
   <img alt="Perl" src="https://img.shields.io/badge/perl-%2339457E.svg?style=flat-square&logo=perl&logoColor=white">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/lfd123-open-source-rt-thread-rtos-on-risc-v.png" height="50" hspace="3" />
+  <img src="./assets/lfel1001-understanding-the-eu-cyber-resilience-act-.png" height="50" hspace="3" />
+  <img src="./assets/lfel1010-xss-exploits-and-defenses.png" height="50" hspace="3" />
+  <img src="./assets/lfs111-open-source-and-the-5g-transition.png" height="50" hspace="3" />
+  <img src="./assets/lfs112-ethics-in-ai-and-data-science.png" height="50" hspace="3" />
+  <img src="./assets/lfs120-conversational-ai-ensuring-compliance-and-mi.png" height="50" hspace="3" />
+  <img src="./assets/lfs170-blockchain-understanding-its-uses-and-implic.png" height="50" hspace="3" />
+  <img src="./assets/17398951176963021610006048350100.png" height="50" hspace="3" />
+  <img src="./assets/4d48be22-cdd1-4c68-b199-43fc9c26ba4c.png" height="50" hspace="3" />
+  <img src="./assets/6582aea0-9485-4c49-a88f-6a838b5322cb.png" height="50" hspace="3" />
+  <img src="./assets/ccc4ccaa-8195-4f9c-8a21-e15db86485f2.png" height="50" hspace="3" />
+  <img src="./assets/badge_sfsiin.svg" height="50" />
+  <img src="./assets/multicloud-network-associate.png" height="50" />
 </div>
