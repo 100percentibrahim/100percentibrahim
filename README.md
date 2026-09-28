@@ -5,21 +5,22 @@
 </picture>
 
 <br>
+<br>
 
 <div align="center">
-  <img src="./assets/lfd123-open-source-rt-thread-rtos-on-risc-v.png" height="55" hspace="3" />
-  <img src="./assets/lfel1001-understanding-the-eu-cyber-resilience-act-.png" height="55" hspace="3" />
-  <img src="./assets/lfel1010-xss-exploits-and-defenses.png" height="55" hspace="3" />
-  <img src="./assets/lfs111-open-source-and-the-5g-transition.png" height="55" hspace="3" />
-  <img src="./assets/lfs112-ethics-in-ai-and-data-science.png" height="55" hspace="3" />
-  <img src="./assets/lfs120-conversational-ai-ensuring-compliance-and-mi.png" height="55" hspace="3" />
-  <img src="./assets/lfs170-blockchain-understanding-its-uses-and-implic.png" height="55" hspace="3" />
-  <img src="./assets/17398951176963021610006048350100.png" height="55" hspace="3" />
-  <img src="./assets/4d48be22-cdd1-4c68-b199-43fc9c26ba4c.png" height="55" hspace="3" />
-  <img src="./assets/6582aea0-9485-4c49-a88f-6a838b5322cb.png" height="55" hspace="3" />
-  <img src="./assets/ccc4ccaa-8195-4f9c-8a21-e15db86485f2.png" height="55" hspace="3" />
-  <img src="./assets/badge_sfsiin.svg" height="55" />
-  <img src="./assets/multicloud-network-associate.png" height="55" />
+  <img src="./assets/lfd123-open-source-rt-thread-rtos-on-risc-v.png" height="50" hspace="3" />
+  <img src="./assets/lfel1001-understanding-the-eu-cyber-resilience-act-.png" height="50" hspace="3" />
+  <img src="./assets/lfel1010-xss-exploits-and-defenses.png" height="50" hspace="3" />
+  <img src="./assets/lfs111-open-source-and-the-5g-transition.png" height="50" hspace="3" />
+  <img src="./assets/lfs112-ethics-in-ai-and-data-science.png" height="50" hspace="3" />
+  <img src="./assets/lfs120-conversational-ai-ensuring-compliance-and-mi.png" height="50" hspace="3" />
+  <img src="./assets/lfs170-blockchain-understanding-its-uses-and-implic.png" height="50" hspace="3" />
+  <img src="./assets/17398951176963021610006048350100.png" height="50" hspace="3" />
+  <img src="./assets/4d48be22-cdd1-4c68-b199-43fc9c26ba4c.png" height="50" hspace="3" />
+  <img src="./assets/6582aea0-9485-4c49-a88f-6a838b5322cb.png" height="50" hspace="3" />
+  <img src="./assets/ccc4ccaa-8195-4f9c-8a21-e15db86485f2.png" height="50" hspace="3" />
+  <img src="./assets/badge_sfsiin.svg" height="50" />
+  <img src="./assets/multicloud-network-associate.png" height="50" />
 </div>
 
 <br>
