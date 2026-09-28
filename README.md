@@ -1,126 +1,52 @@
-```
-   /$$    /$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$ /$$$$$$$  /$$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$ /$$      /$$
- /$$$$   /$$$_  $$ /$$$_  $$|__/  /$$/|_  $$_/| $$__  $$| $$__  $$ /$$__  $$| $$  | $$|_  $$_/| $$$    /$$$
-|_  $$  | $$$$\ $$| $$$$\ $$     /$$/   | $$  | $$  \ $$| $$  \ $$| $$  \ $$| $$  | $$  | $$  | $$$$  /$$$$
-  | $$  | $$ $$ $$| $$ $$ $$    /$$/    | $$  | $$$$$$$ | $$$$$$$/| $$$$$$$$| $$$$$$$$  | $$  | $$ $$/$$ $$
-  | $$  | $$\ $$$$| $$\ $$$$   /$$/     | $$  | $$__  $$| $$__  $$| $$__  $$| $$__  $$  | $$  | $$  $$$| $$
-  | $$  | $$ \ $$$| $$ \ $$$  /$$/      | $$  | $$  \ $$| $$  \ $$| $$  | $$| $$  | $$  | $$  | $$\  $ | $$
- /$$$$$$|  $$$$$$/|  $$$$$$/ /$$/  /$$ /$$$$$$| $$$$$$$/| $$  | $$| $$  | $$| $$  | $$ /$$$$$$| $$ \/  | $$
-|______/ \______/  \______/ |__/  |__/|______/|_______/ |__/  |__/|__/  |__/|__/  |__/|______/|__/     |__/
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ascii.svg">
+  <img src="./assets/ascii.svg" width="100%" height="auto" alt="100percentibrahim" style="margin-top: 2.5%; margin-bottom: 2.5%;">
+</picture>
 
-### Language:
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=scala" height="40" alt="scala logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+<div align="center" style="margin-top: 5; margin-bottom: 25;">
+  <img src="./assets/lfd123-open-source-rt-thread-rtos-on-risc-v.png" height="55" hspace="3" />
+  <img src="./assets/lfel1001-understanding-the-eu-cyber-resilience-act-.png" height="55" hspace="3" />
+  <img src="./assets/lfel1010-xss-exploits-and-defenses.png" height="55" hspace="3" />
+  <img src="./assets/lfs111-open-source-and-the-5g-transition.png" height="55" hspace="3" />
+  <img src="./assets/lfs112-ethics-in-ai-and-data-science.png" height="55" hspace="3" />
+  <img src="./assets/lfs120-conversational-ai-ensuring-compliance-and-mi.png" height="55" hspace="3" />
+  <img src="./assets/lfs170-blockchain-understanding-its-uses-and-implic.png" height="55" hspace="3" />
+  <img src="./assets/17398951176963021610006048350100.png" height="55" hspace="3" />
+  <img src="./assets/4d48be22-cdd1-4c68-b199-43fc9c26ba4c.png" height="55" hspace="3" />
+  <img src="./assets/6582aea0-9485-4c49-a88f-6a838b5322cb.png" height="55" hspace="3" />
+  <img src="./assets/ccc4ccaa-8195-4f9c-8a21-e15db86485f2.png" height="55" hspace="3" />
+  <img src="./assets/badge_sfsiin.svg" height="55" />
+  <img src="./assets/multicloud-network-associate.png" height="55" />
 </div>
 
-###
-
-### Develoment Tools:
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=gatsby" height="40" alt="gatsby logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=rollupjs" height="40" alt="rollupdotjs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
-
-###
-
-### Setup:
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+<div align="center" style="margin-bottom: 25;">
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white">
+  <img alt="AssemblyScript" src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img alt="Clojure" src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=flat-square&logo=Clojure&logoColor=Clojure">
+  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white">
+  <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=flat-square&logo=elixir&logoColor=white">
+  <img alt="Erlang" src="https://img.shields.io/badge/Erlang-white.svg?style=flat-square&logo=erlang&logoColor=a90533">
+  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white">
+  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E">
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white">
+  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white">
+  <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
+  <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white">
+  <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white">
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white">
+  <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Bash Script" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white">
+  <img alt="Nim" src="https://img.shields.io/badge/nim-%23FFE953.svg?style=flat-square&logo=nim&logoColor=white">
+  <img alt="Octave" src="https://img.shields.io/badge/OCTAVE-darkblue?style=flat-square&logo=octave&logoColor=fcd683">
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+  <img alt="Apache Groovy" src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat-square&logo=Apache+Groovy&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
+  <img alt="Perl" src="https://img.shields.io/badge/perl-%2339457E.svg?style=flat-square&logo=perl&logoColor=white">
 </div>
