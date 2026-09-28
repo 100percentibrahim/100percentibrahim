@@ -1,10 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/ascii.svg">
-  <img src="./assets/ascii.svg" width="100%" height="auto" alt="100percentibrahim" style="margin-top: 2.5%; margin-bottom: 2.5%;">
+  <img src="./assets/ascii.svg" width="100%" alt="100percentibrahim">
 </picture>
 
-<div align="center" style="margin-top: 5; margin-bottom: 25;">
+<br>
+
+<div align="center">
   <img src="./assets/lfd123-open-source-rt-thread-rtos-on-risc-v.png" height="55" hspace="3" />
   <img src="./assets/lfel1001-understanding-the-eu-cyber-resilience-act-.png" height="55" hspace="3" />
   <img src="./assets/lfel1010-xss-exploits-and-defenses.png" height="55" hspace="3" />
@@ -20,7 +22,9 @@
   <img src="./assets/multicloud-network-associate.png" height="55" />
 </div>
 
-<div align="center" style="margin-bottom: 25;">
+<br>
+
+<div align="center">
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white">
   <img alt="AssemblyScript" src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white">
